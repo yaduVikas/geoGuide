@@ -1,4 +1,4 @@
-About the Project
+About the Project || eYRC 2023-24 || IIT Bombay 
 
 Building a "Vangaurd" An advanced robotic vehicle, through the theme “GeoGuide”. Guided by the static drone Watchtower, equipped with machine learning algorithms, Vanguard navigates the war-torn arena. Watchtower detects events in real-time, enabling Vanguard to avoid danger zones and adapt to unpredictable alien attacks. With georeferencing techniques, Vanguard understands its position and coordinates with the command centre to strategize against the invaders.
 The core focus of this theme is to create an autonomous robot capable of navigating an arena using an overhead camera for guidance. The arena will be designed to mimic a real-world setting, complete with simulated events and accidents that the robot must successfully avoid. By participating in this theme, students will have the opportunity to construct their robot, named "Vanguard," utilising the ESP32 microcontroller. They will delve into the fascinating realms of image processing and machine learning, acquiring valuable skills and knowledge along the way.
@@ -11,3 +11,7 @@ Submissions
 
 Task 5 :- https://www.youtube.com/watch?v=Uk6XCBwvBFM
 Task 6 :- https://www.youtube.com/watch?v=jPzFFzKt_RI
+
+Certificate 
+
+Level-2 :- https://drive.google.com/file/d/13tPhmMz34ttyt8EhJ6wFUQx342azsQn9/view?usp=drive_link
